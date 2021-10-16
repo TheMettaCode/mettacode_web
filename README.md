@@ -1,2 +1,2 @@
-# mettacode_web
+# mettacode
 The Official MettaCode Developer Website
